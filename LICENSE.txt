@@ -1,0 +1,32 @@
+Template License for H-Blog-Manager-Script
+
+Version 1.0, February 2024
+
+The templates provided here are an extension of H-Blog-Manager-Script, and they are subject to the following license terms.
+
+## License Terms
+
+1. **Use:**
+   - You are free to use, modify, and distribute these templates in conjunction with H-Blog-Manager-Script, in accordance with the terms of the main script's license.
+
+2. **Distribution:**
+   - If you distribute these templates, you must include the original copyright notice and reference to this template license.
+
+3. **Derivative Works:**
+   - You may create derivative works based on these templates. However, any modifications or additions should also be licensed under the same terms.
+
+4. **Compatibility:**
+   - These templates are designed to be compatible with H-Blog-Manager-Script. Ensure that any modifications or adaptations maintain compatibility with the main script.
+
+## Reference to H-Blog-Manager-Script License
+
+These templates are an extension of H-Blog-Manager-Script. The main script is governed by the H-Blog-Manager-Script License. Before using these templates, ensure that you have read and agreed to the terms specified in the main script's license.
+
+## Contact
+
+For any questions or inquiries related to these templates, feel free to contact the creator:
+
+- [GitHub Profile](https://github.com/HenenTheProgrammer)
+- Email: henen.programmer@proton.me
+
+Thank you for using H-Blog-Manager-Script templates! Happy blogging!
