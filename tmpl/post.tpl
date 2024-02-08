@@ -54,7 +54,7 @@
 
         <!--forEach[recent_posts]-->
         <article class="post">
-            <a href="read/<!--{URI}-->">
+            <a href="/read/<!--{URI}-->">
                 <div class="header-cover">
                     <img src="<!--{FeatureImage}-->" alt="<!--{Title}-->" width="100"/>
                     <div class="content">
